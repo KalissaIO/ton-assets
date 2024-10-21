@@ -4684,5 +4684,20 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "EQBAkWzxKCA9F57J_Ii5vd6a1ZJLZQkeIqqKcSJNR_QAU5L8",
+  "description": "Revolution in the certification of physical products through blockchain and NFTs",
+  "image": "https://cdn.prod.website-files.com/65187d41155bcd98bacc2c57/651f1a5ff02881a183d0683e_Sans%20titre%20(256%20x%20256%20px).png",
+  "name": "KALIS",
+  "social": [
+    "https://t.me/kalichain",
+    "https://twitter.com/kalichainoff"
+  ],
+  "symbol": "KALIS",
+  "websites": [
+    "https://kalichain.com",
+    "https://www.coingecko.com/en/coins/kalis"
+  ]
+}
 ]
